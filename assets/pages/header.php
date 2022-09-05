@@ -12,13 +12,12 @@
 <body>
 <style>
    body{
-     background-color: #fce3d3;
+     background-color: #fde3d4;
    }
    .section-titre h2{
-    background-color: #fce3d3;
+    background-color: #fde3d4;
    }
    .btn {
-    font-we
   }
    </style>
 <nav class="navbar navbar-expand-lg navbar-light pt-0" >
